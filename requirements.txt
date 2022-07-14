@@ -7,3 +7,4 @@ scikit-learn
 pandas
 ipython
 pre-commit
+seaborn
