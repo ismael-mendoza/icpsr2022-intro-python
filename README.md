@@ -1,5 +1,7 @@
 # icpsr2022-intro-python
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismael-mendoza/icpsr2022-intro-python/main)
+
 "Introduction to Python" course offered as part of the ICPSR 2022 program at the University of Michigan
 
 ## Credit
