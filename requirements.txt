@@ -8,3 +8,5 @@ pandas
 ipython
 pre-commit
 seaborn
+beautifulsoup4
+requests
